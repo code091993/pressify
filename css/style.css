@@ -1,0 +1,7 @@
+.box{
+ width: 120px;
+ height:120px;
+ background-image: linear-gradient( red, blue);
+ box-shadow: 10px 10px brown
+ ;
+}
